@@ -1,0 +1,7 @@
+Instalações feitas:
+    - npm init - Cria a pasta package.json
+    - npm i -D typescript tsx prisma @types/node @types/cors @types/express @types/jsonwebtoken @types/multer @types/slug - Diversos recursos e types
+    - npm i express cors jsonwebtoken multer slug uuid zod body-parser bcryptjs - Instalar dependencias necessárias
+
+Arquivo .gitignore
+    - Um arquivo onde podemos salvar quais arquivos e pastas que não iremos trabalhar no GitHub
