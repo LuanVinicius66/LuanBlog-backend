@@ -5,3 +5,14 @@ Instalações feitas:
 
 Arquivo .gitignore
     - Um arquivo onde podemos salvar quais arquivos e pastas que não iremos trabalhar no GitHub
+
+Recursos utilizados
+    - Node
+    - Typescript
+    - Express
+    - Prisma
+    - Cors
+    - Slug
+    - Multer
+    - Jsonwebtoken
+    - Zod
